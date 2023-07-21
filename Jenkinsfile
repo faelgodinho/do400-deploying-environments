@@ -7,8 +7,8 @@ pipeline {
 
 	environment {
 		RHT_OCP4_DEV_USER = 'faelgodinho'
-		DEPLOYMENT_STAGE = 'shopping-cart-stage'
-		DEPLOYMENT_PRODUCTION = 'shopping-cart-production'
+		DEPLOYMENT_STAGE = 'faelgodinho-shopping-cart-stage'
+		DEPLOYMENT_PRODUCTION = 'faelgodinho-shopping-cart-production'
 	}
 
 		stages {
